@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tile>
+  <visual version="3">
+    <binding template="TileWide310x150PeekImage02">
+      <image id="1" src="img_310x150_yellow.png"/>
+      <text id="1">Text Field 1 (larger text)</text>
+      <text id="2">Text Field 2</text>
+      <text id="3">Text Field 3</text>
+      <text id="4">Text Field 4</text>
+      <text id="5">Text Field 5</text>
+    </binding>
+    <binding template="TileSquare150x150PeekImageAndText01">
+      <image id="1" src=""/>
+      <text id="1">Text Field 1</text>
+      <text id="2">Text Field 2</text>
+      <text id="3">Text Field 3</text>
+      <text id="4">Text Field 4</text>
+    </binding>
+  </visual>
+</tile>
